@@ -75,3 +75,12 @@
 .box:nth-child(4n-1) {
   opacity: 0.75;
 }
+
+.footer {
+  background: gray;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+}
